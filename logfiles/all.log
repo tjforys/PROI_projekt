@@ -1,0 +1,65 @@
+[2024-06-13 18:07:36.024] [queueLogger] [info] Monica Taylor has been added to the queue by Clara
+[2024-06-13 18:07:36.024] [queueLogger] [info] Amelia Wilson has been added to the queue by Mary
+[2024-06-13 18:07:36.125] [queueLogger] [info] Noah Thomson has been added to the queue by Clara
+[2024-06-13 18:07:36.225] [queueLogger] [info] Mat Stewart has been added to the queue by Clara
+[2024-06-13 18:07:36.325] [queueLogger] [info] Mat Macdonald has been added to the queue by Clara
+[2024-06-13 18:07:36.426] [queueLogger] [info] George Campbell has been added to the queue by Clara
+[2024-06-13 18:07:36.525] [queueLogger] [info] Monica Robertson has been added to the queue by Mary
+[2024-06-13 18:07:36.526] [queueLogger] [info] Monica Wilson has been added to the queue by Clara
+[2024-06-13 18:07:36.626] [queueLogger] [info] Sarah Thomson has been added to the queue by Clara
+[2024-06-13 18:07:36.727] [queueLogger] [info] Oliver Robertson has been added to the queue by Clara
+[2024-06-13 18:07:36.827] [queueLogger] [info] Amelia Stewart has been added to the queue by Clara
+[2024-06-13 18:07:36.927] [queueLogger] [info] John Macdonald has been added to the queue by Clara
+[2024-06-13 18:07:37.024] [assignLogger] [warning] Assigned Monica Taylor to Dr Who
+[2024-06-13 18:07:37.025] [queueLogger] [info] Sarah Wilson has been added to the queue by Mary
+[2024-06-13 18:07:37.125] [info] Doctor Who is now treating Monica
+[2024-06-13 18:07:37.525] [queueLogger] [info] John Wilson has been added to the queue by Mary
+[2024-06-13 18:07:38.025] [assignLogger] [warning] Assigned Amelia Wilson to Dr House
+[2024-06-13 18:07:38.025] [queueLogger] [info] Monica Thomson has been added to the queue by Mary
+[2024-06-13 18:07:38.125] [info] Doctor House is now treating Amelia
+[2024-06-13 18:07:39.025] [queueLogger] [error] The clinic stopped taking patients
+[2024-06-13 18:07:39.025] [assignLogger] [warning] Assigned Noah Thomson to Dr Phil
+[2024-06-13 18:07:39.126] [info] Doctor Phil is now treating Noah
+[2024-06-13 18:07:40.275] [critical] Dr Who finished treating Monica Taylor in 3150ms
+[2024-06-13 18:07:40.735] [critical] Dr House finished treating Amelia Wilson in 2610ms
+[2024-06-13 18:07:41.376] [assignLogger] [warning] Assigned Mat Stewart to Dr Who
+[2024-06-13 18:07:41.476] [info] Doctor Who is now treating Mat
+[2024-06-13 18:07:42.377] [assignLogger] [warning] Assigned Mat Macdonald to Dr House
+[2024-06-13 18:07:42.477] [info] Doctor House is now treating Mat
+[2024-06-13 18:07:42.606] [critical] Dr Phil finished treating Noah Thomson in 3480ms
+[2024-06-13 18:07:43.198] [critical] Dr House finished treating Mat Macdonald in 720ms
+[2024-06-13 18:07:43.707] [assignLogger] [warning] Assigned George Campbell to Dr Phil
+[2024-06-13 18:07:43.807] [info] Doctor Phil is now treating George
+[2024-06-13 18:07:44.707] [assignLogger] [warning] Assigned Monica Robertson to Dr House
+[2024-06-13 18:07:44.808] [info] Doctor House is now treating Monica
+[2024-06-13 18:07:44.837] [critical] Dr Who finished treating Mat Stewart in 3360ms
+[2024-06-13 18:07:45.877] [critical] Dr Phil finished treating George Campbell in 2070ms
+[2024-06-13 18:07:45.937] [assignLogger] [warning] Assigned Monica Wilson to Dr Who
+[2024-06-13 18:07:46.037] [info] Doctor Who is now treating Monica
+[2024-06-13 18:07:46.978] [assignLogger] [warning] Assigned Sarah Thomson to Dr Phil
+[2024-06-13 18:07:47.078] [info] Doctor Phil is now treating Sarah
+[2024-06-13 18:07:48.978] [critical] Dr House finished treating Monica Robertson in 4170ms
+[2024-06-13 18:07:50.079] [assignLogger] [warning] Assigned Oliver Robertson to Dr House
+[2024-06-13 18:07:50.179] [info] Doctor House is now treating Oliver
+[2024-06-13 18:07:50.808] [critical] Dr Who finished treating Monica Wilson in 4770ms
+[2024-06-13 18:07:51.219] [critical] Dr Phil finished treating Sarah Thomson in 4140ms
+[2024-06-13 18:07:51.709] [critical] Dr House finished treating Oliver Robertson in 1530ms
+[2024-06-13 18:07:51.908] [assignLogger] [warning] Assigned Amelia Stewart to Dr Who
+[2024-06-13 18:07:52.009] [info] Doctor Who is now treating Amelia
+[2024-06-13 18:07:52.909] [assignLogger] [warning] Assigned John Macdonald to Dr Phil
+[2024-06-13 18:07:53.009] [info] Doctor Phil is now treating John
+[2024-06-13 18:07:53.909] [assignLogger] [warning] Assigned Sarah Wilson to Dr House
+[2024-06-13 18:07:54.010] [info] Doctor House is now treating Sarah
+[2024-06-13 18:07:54.379] [critical] Dr Who finished treating Amelia Stewart in 2370ms
+[2024-06-13 18:07:54.480] [critical] Dr Phil finished treating John Macdonald in 1470ms
+[2024-06-13 18:07:55.480] [assignLogger] [warning] Assigned John Wilson to Dr Who
+[2024-06-13 18:07:55.580] [info] Doctor Who is now treating John
+[2024-06-13 18:07:56.480] [assignLogger] [warning] Assigned Monica Thomson to Dr Phil
+[2024-06-13 18:07:56.580] [info] Doctor Phil is now treating Monica
+[2024-06-13 18:07:57.080] [critical] Dr Who finished treating John Wilson in 1500ms
+[2024-06-13 18:07:57.181] [critical] Dr Phil finished treating Monica Thomson in 600ms
+[2024-06-13 18:07:57.181] [error] Dr Who has finished for the day
+[2024-06-13 18:07:57.281] [error] Dr Phil has finished for the day
+[2024-06-13 18:07:58.630] [critical] Dr House finished treating Sarah Wilson in 4620ms
+[2024-06-13 18:07:58.731] [error] Dr House has finished for the day
+[2024-06-13 18:07:58.731] [error] The clinic has closed
